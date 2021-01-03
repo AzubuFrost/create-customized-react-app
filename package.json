@@ -1,0 +1,28 @@
+{
+  "name": "create-customized-react-app",
+  "version": "1.0.0",
+  "description": "集合create-react-app, react-app-rewired, customize-cra, typescript,生成模版代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-customized-react-app": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzubuFrost/create-customized-react-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzubuFrost/create-customized-react-app/issues"
+  },
+  "homepage": "https://github.com/AzubuFrost/create-customized-react-app#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.1",
+    "inquirer": "^7.3.3"
+  }
+}
